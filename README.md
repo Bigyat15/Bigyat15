@@ -18,12 +18,12 @@ I'm a full-stack developer passionate about building modern, high-performance we
 
 ### 🗄 Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="50"/>
 </p>
 
 ### ☁ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,graphql,ts,git,github,linux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" height="50"/>
 </p>
 
 ---
